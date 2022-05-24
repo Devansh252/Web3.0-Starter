@@ -29,8 +29,8 @@ function App() {
               src={iconDevx}
               style={{ marginBottom: "2em" }}
             />
-            <p>Hello Etherium World</p>
-            <p></p>
+            <p>Hello World</p>
+            <p>Hello etherium</p>
           </Container>
         </Content>
         <Footer />
